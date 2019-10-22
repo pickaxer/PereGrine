@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WindowsApplication",
+    "\\WindowsApplication\\PeregrineWindowsApplication",
+    "\\WindowsApplication\\PeregrineWindowsApplication\\Custom",
+    "\\WindowsApplication\\PeregrineWindowsApplication\\Windows"
+  ],
+  "SelectedNode": "\\WindowsApplication\\PeregrineWindowsApplication\\Windows\\WindowMain.cpp",
+  "PreviewInSolutionExplorer": false
+}
